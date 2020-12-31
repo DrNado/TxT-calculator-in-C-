@@ -1,0 +1,6 @@
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Documentos\giovanni trabalhos\projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
